@@ -1,31 +1,34 @@
-## Call for Papers Libraries, Archives and the Digital Humanities 
+# Call for Papers Libraries, Archives and the Digital Humanities 
 
-*Libraries, Archives, and the Digital Humanities*
+*Libraries, Archives, and the Digital Humanities
 
 Isabel Galina Russell and Glen Layne-Worthey, editors
 
 We’re seeking proposals from the digital humanities, library, and archives communities for chapter contributions to a volume on Libraries, Archives, and the Digital Humanities.  This book is already under contract for publication with Routledge in its Companions to the Digital Humanities series.
 
-Abstract
+##Abstract
 Libraries, Archives, and the Digital Humanities will cover a wide range of issues encountered in the world’s libraries, archives, and special collections as they continue to expand their support of, and direct engagement in, DH research and teaching. 
+
 We’re interested in DH-related questions both as they reflect the library and archival professions’ traditional values and practices, and as those values inform and enhance evolving DH work generally. We hope to reach beyond topics such as digitization and digital repositories (which have been extensively covered in the library literature) into newer areas of inquiry.
+
 In addition to topics related to the practice of librarianship, and to libraries and archives as DH-friendly institutions, we will address issues of importance to library and archives workers themselves: training and reskilling in digital humanities methods; labor issues; organization and infrastructure; and focused professional practices that reflect the increasingly important role of librarians and archivists as active research partners in large collaborative projects. 
 
-Topics and organization
+##Topics and organization
 We are interested in receiving chapters from a wide range of countries and cultural contexts in order to reflect the diversity of the profession around the world. 
 Topics to be covered include:
-Libraries, archives, and DH as an ecosystem
-Library and archival collections as data 
-Infrastructures 
-Libraries and archives as DH publishers; Open Access 
-Copyright, fair use, and ethics 
+-Libraries, archives, and DH as an ecosystem
+-Library and archival collections as data 
+-Infrastructures 
+-Libraries and archives as DH publishers; Open Access 
+-Copyright, fair use, and ethics 
 See [below] for more detailed and granular topic descriptions.
 
-Submissions
+##Submissions
 Please send your chapter proposal (250-500 words) and a cover letter (250-500 words) describing your interest in contributing a chapter by 11 March 2022, to the editors, Isabel Galina Russell <igalina@unam.mx> and Glen Layne-Worthey <gworthey@illinois.edu>.
+
 Acceptance decisions will be made by the end of March.  First drafts of accepted chapters (maximum 8,000 words) will be due 10 June 2022, and final chapters due in September 2022.
 
-Timeline
+##Timeline
 General timeline for submissions and production:
 Initial chapter proposals due: 11 March 2022
 Notification of accepted proposals: 1 April 2022
@@ -34,14 +37,14 @@ Final chapter drafts due: 2 September 2022
 Manuscript submission: October 2022
 Anticipated publication date:  
 
-Open Access
+##Open Access
 Routledge offers several Open Access publishing options. The editors hope to publish as many chapters of the volume as possible in Open Access, and are committed to work with authors and libraries to accomplish this goal.
 https://www.routledge.com/our-products/open-access-books/publishing-oa-books/chapters
 
 While we seek funding to support Open Access for the entire volume, we hope to count on the support of individual authors who may have access to institutional funding for their own chapters.  Please be in touch with the editors to discuss 
 
 
-Detailed topic descriptions
+##Detailed topic descriptions
 Section 1. The Ecosystem of Libraries, Archives and the Digital Humanities
 Digital Humanities work is often assumed to be supported principally in academic libraries and archives, and lots of good scholarship has focused on these particular systems. But there are many other important libraries and archives engaged deeply and visibly in DH, and they have particular characteristics that have not been examined as closely. This section is intended both to address this gap, and to integrate our understanding of the variety of libraries, archives, and other cultural heritage organizations in which important DH activities, collaborations and support occur: national archives, national libraries, and their counterparts at the regional, state, and local levels; public libraries; institutional, corporate, and special archives; and independent research libraries. Their collections contain important and valuable resources for teaching and research in DH.  Additionally, these organizations tend to focus on providing access to the general public and they frequently work on DH inflected projects to do so. This section will look at:
 Collaboration between these libraries and archives and digital humanists
