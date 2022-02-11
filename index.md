@@ -35,7 +35,7 @@ General timeline for submissions and production:
 
 ## Open Access
 Routledge offers several Open Access publishing options. The editors hope to publish as many chapters of the volume as possible in Open Access, and are committed to work with authors and libraries to accomplish this goal.
-https://www.routledge.com/our-products/open-access-books/publishing-oa-books/chapters
+[https://www.routledge.com/our-products/open-access-books/publishing-oa-books/chapters]
 
 While we seek funding to support Open Access for the entire volume, we hope to count on the support of individual authors who may have access to institutional funding for their own chapters.  Please be in touch with the editors to discuss 
 
