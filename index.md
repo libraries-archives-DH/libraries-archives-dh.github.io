@@ -1,5 +1,5 @@
 _Call for chapter submissions:_
-# Libraries, Archives, and the Digital Humanities 
+# _Libraries, Archives, and the Digital Humanities_ 
 _Isabel Galina Russell and Glen Layne-Worthey, editors_
 
 We’re seeking proposals from the digital humanities, library, and archives communities for chapter contributions to a volume on **_Libraries, Archives, and the Digital Humanities_**.  This book is already under contract for publication with Routledge in its Companions to the Digital Humanities series.
