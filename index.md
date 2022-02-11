@@ -92,3 +92,8 @@ Because so much DH work touches upon legal issues of intellectual property (copy
 * DH as a locus of decolonization for library and archival collections
 * Creating and promoting workflows for the creation and curation of DH research data that are consistent with current law and institutional tolerance for risk
 * Developing communities of practice to promote cross-institutional outreach about the legal landscape of DH work
+
+---
+We welcome your questions and topic ideas!  Please contact us: 
+Isabel Galina Russell <igalina@unam.mx> 
+Glen Layne-Worthey <gworthey@illinois.edu>
