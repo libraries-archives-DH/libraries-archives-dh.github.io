@@ -1,4 +1,6 @@
-_Call for chapter submissions:  **First deadline extended to 25 April 2022**_
+  **First deadline extended to 25 April 2022**
+
+_Call for chapter submissions:_
 # _Libraries, Archives, and the Digital Humanities_ 
 _Isabel Galina Russell and Glen Layne-Worthey, editors_
 
