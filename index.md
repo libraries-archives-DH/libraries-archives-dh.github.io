@@ -1,4 +1,4 @@
-_Call for chapter submissions:_
+_Call for chapter submissions:  **First deadline extended to 25 April 2022**_
 # _Libraries, Archives, and the Digital Humanities_ 
 _Isabel Galina Russell and Glen Layne-Worthey, editors_
 
@@ -21,16 +21,16 @@ Topics to be covered include:
 See [below] for more detailed and granular topic descriptions.
 
 ## Submissions
-Please send your chapter proposal (250-500 words) and a cover letter (250-500 words) describing your interest in contributing a chapter by **11 March 2022**, to the editors, Isabel Galina Russell <igalina@unam.mx> and Glen Layne-Worthey <gworthey@illinois.edu>.
+Please send your chapter proposal (250-500 words) and a cover letter (250-500 words) describing your interest in contributing a chapter by -11 March- **25 April 2022**, to the editors, Isabel Galina Russell <igalina@unam.mx> and Glen Layne-Worthey <gworthey@illinois.edu>.
 Acceptance decisions will be made by the end of March.  First drafts of accepted chapters (maximum 8,000 words) will be due **10 June 2022**, and final chapters due in September 2022.
 
 ## Timeline
 General timeline for submissions and production:
-* Initial chapter proposals due: 11 March 2022
-* Notification of accepted proposals: 1 April 2022
-* First chapter drafts due: 10 June 2022
-* Final chapter drafts due: 2 September 2022
-* Manuscript submission: October 2022
+* Initial chapter proposals due: 25 April 2022
+* Notification of accepted proposals: 1 June 2022
+* First chapter drafts due: 1 August 2022
+* Final chapter drafts due: 21 October 2022
+* Manuscript submission: November 2022
 * Anticipated publication date: late 2023
 
 ## Open Access
