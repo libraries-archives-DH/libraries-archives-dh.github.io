@@ -24,7 +24,7 @@ See [below] for more detailed and granular topic descriptions.
 
 ## Submissions
 Please send your chapter proposal (250-500 words) and a cover letter (250-500 words) describing your interest in contributing a chapter by **25 April 2022**, to the editors, Isabel Galina Russell <igalina@unam.mx> and Glen Layne-Worthey <gworthey@illinois.edu>.
-Acceptance decisions will be made by the end of March.  First drafts of accepted chapters (maximum 8,000 words) will be due **10 June 2022**, and final chapters due in September 2022.
+Acceptance decisions will be made by the beginning of June, 2022.  First drafts of accepted chapters (maximum 8,000 words) will be due **1 August 2022**, and final chapters due at the end of **October 2022**.
 
 ## Timeline
 General timeline for submissions and production:
