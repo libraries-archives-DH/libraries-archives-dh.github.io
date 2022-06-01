@@ -1,10 +1,11 @@
-  **First deadline extended to 25 April 2022**
+  **CfP now closed**
 
-_Call for chapter submissions:_
+[Author Guidelines](/author-guide/)
+
 # _Libraries, Archives, and the Digital Humanities_ 
 _Isabel Galina Russell and Glen Layne-Worthey, editors_
 
-We’re seeking proposals from the digital humanities, library, and archives communities for chapter contributions to a volume on **_Libraries, Archives, and the Digital Humanities_**.  This book is already under contract for publication with Routledge in its Companions to the Digital Humanities series.
+We’re seeking proposals from the digital humanities, library, and archives communities for chapter contributions to a volume on **_Libraries, Archives, and the Digital Humanities_**.  This book is under contract for publication with Routledge in its Companions to the Digital Humanities series.
 
 ## Abstract
 **_Libraries, Archives, and the Digital Humanities_** will cover a wide range of issues encountered in the world’s libraries, archives, and special collections as they continue to expand their support of, and direct engagement in, DH research and teaching. 
@@ -24,12 +25,12 @@ See [below] for more detailed and granular topic descriptions.
 
 ## Submissions
 Please send your chapter proposal (250-500 words) and a cover letter (250-500 words) describing your interest in contributing a chapter by **25 April 2022**, to the editors, Isabel Galina Russell <igalina@unam.mx> and Glen Layne-Worthey <gworthey@illinois.edu>.
-Acceptance decisions will be made by the beginning of June, 2022.  First drafts of accepted chapters (maximum 8,000 words) will be due **1 August 2022**, and final chapters due at the end of **October 2022**.
+Acceptance decisions will be made by the beginning of June, 2022.  First drafts of accepted chapters (maximum 6,500 words) will be due **1 August 2022**, and final chapters due at the end of **October 2022**.
 
 ## Timeline
 General timeline for submissions and production:
-* Initial chapter proposals due: 25 April 2022
-* Notification of accepted proposals: 1 June 2022
+~~* Initial chapter proposals due: 25 April 2022~~
+~~* Notification of accepted proposals: 1 June 2022~~
 * First chapter drafts due: 1 August 2022
 * Final chapter drafts due: 21 October 2022
 * Manuscript submission: November 2022
