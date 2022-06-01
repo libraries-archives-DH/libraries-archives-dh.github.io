@@ -1,6 +1,6 @@
   **CfP now closed**
 
-[Author Guidelines](/author-guide/)
+[Author Guidelines](/author-guide)
 
 # _Libraries, Archives, and the Digital Humanities_ 
 _Isabel Galina Russell and Glen Layne-Worthey, editors_
