@@ -76,7 +76,7 @@ Editable tables should be included directly in the chapter text file. Tables mus
 
 
 ### Boxes 
-Boxes can be used to isolate and highlight segments of text, perhaps for a definition or case study. To indicate that a segment of text should be boxed, add appropriate tags, e.g. <start box> and <end box>
+Boxes can be used to isolate and highlight segments of text, perhaps for a definition or case study. To indicate that a segment of text should be boxed, add appropriate tags, e.g. \<start box\> and \<end box\>
 
 Floating boxes are positioned and numbered in the same way as a figure or table, with a caption, e.g. Box 1.1, Box 1.2 etc. 
 
