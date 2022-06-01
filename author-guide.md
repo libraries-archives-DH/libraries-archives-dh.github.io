@@ -9,9 +9,10 @@ The final chapter should be a maximum of 6,500 words, including bibliography and
 
 Please send us a first draft of your chapter by *1 August 2022*. The editors will read drafts and send comments on *1 September 2022*. Final drafts are then due on *31 October 2022*. 
 
-The chapters should be presented according to the Taylor & Francis Group (Routledge) manuscript guidelines: https://www.routledge.com/our-customers/authors/publishing-guidelines.
+The chapters should be presented according to the Taylor & Francis Group (Routledge) manuscript guidelines: 
+<https://www.routledge.com/our-customers/authors/publishing-guidelines>.
 
-Please find below excerpts which are relevant to chapter presentation, but refer to the complete guidelines if needed.
+Please find below some principles specifically relevant to our book, and refer also to the complete publisher guidelines as needed.
 
 We cannot accept manuscripts that do not adhere to these guidelines, so please follow them carefully. We are open to answering any questions you may have! 
 
@@ -29,7 +30,8 @@ Please do:
 Please keep in mind that all *references, notes, and bibliographies or reference lists are included in the agreed word count.*
 
 ### Stylistic guidelines, referencing and bibliography
-We will be using the *Chicago Manual of Style* for notes, citations, and bibliography. More information is available at: https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html
+We will be using the *Chicago Manual of Style* for notes, citations, and bibliography. More information is available at: 
+<https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html>
 
 
 ### Non-textual elements
