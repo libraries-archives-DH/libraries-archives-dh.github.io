@@ -1,6 +1,4 @@
-layout: page
-title: "Author Guide"
-permalink: /author-guide/
+
 
 # Author Guide for _Libraries, Archives, and the Digital Humanities_ 
 _Isabel Galina Russell and Glen Layne-Worthey, editors_
@@ -52,7 +50,7 @@ Name each item according type, chapter, and order within chapter, for example: F
 ### Callouts 
 Any item that needs to be inserted into the text needs a callout – a short, easily identifiable piece of text to indicate roughly where the item should be placed. The callout should match the naming of the item’s file name exactly and should be highlighted to make it stand out. For example: 
 
-<mark style="background-color: #FFFF00">**\<Figure 2.3 here\>**</mark>
+**\<Figure 2.3 here\>**
 
 Note that our standard text designs place any figures, tables, and boxes at the top or bottom of a page, as near to the callout as possible, but not necessarily in the exact location indicated. 
 
