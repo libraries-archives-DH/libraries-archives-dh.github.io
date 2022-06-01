@@ -1,13 +1,16 @@
-# _Author Guidelines_
-# _Libraries, Archives, and the Digital Humanities_ 
+layout: page
+title: "Author Guide"
+permalink: /author-guide/
+
+# Author Guide for _Libraries, Archives, and the Digital Humanities_ 
 _Isabel Galina Russell and Glen Layne-Worthey, editors_
 
 
 ## General overview 
 
-The final chapter should be a maximum of 6,500 words, including bibliography and annexes. Please keep in mind that all references, notes, and bibliographies or reference lists are included in the agreed word count.
+The final chapter should be a maximum of **6,500 words**, including bibliography and annexes. Please keep in mind that all references, notes, bibliographies, and reference lists are included in the agreed word count.
 
-Please send us a first draft of your chapter by *1 August 2022*. The editors will read drafts and send comments on *1 September 2022*. Final drafts are then due on *31 October 2022*. 
+Please send us a first draft of your chapter by **1 August 2022**. The editors will read drafts and send comments on **1 September 2022**. Final drafts are then due on **31 October 2022**. 
 
 The chapters should be presented according to the Taylor & Francis Group (Routledge) manuscript guidelines: 
 <https://www.routledge.com/our-customers/authors/publishing-guidelines>.
@@ -15,7 +18,6 @@ The chapters should be presented according to the Taylor & Francis Group (Routle
 Please find below some principles specifically relevant to our book, and refer also to the complete publisher guidelines as needed.
 
 We cannot accept manuscripts that do not adhere to these guidelines, so please follow them carefully. We are open to answering any questions you may have! 
-
 
 ## Author guidelines
 
@@ -27,9 +29,8 @@ Please do:
 * Number the pages of yur chapter - center
 * Add a line between paragraphs and avoid indents at the start of a paragraphs 
 
-Please keep in mind that all *references, notes, and bibliographies or reference lists are included in the agreed word count.*
 
-### Stylistic guidelines, referencing and bibliography
+### Stylistic guidelines, references and bibliography
 We will be using the *Chicago Manual of Style* for notes, citations, and bibliography. More information is available at: 
 <https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html>
 
@@ -51,7 +52,7 @@ Name each item according type, chapter, and order within chapter, for example: F
 ### Callouts 
 Any item that needs to be inserted into the text needs a callout – a short, easily identifiable piece of text to indicate roughly where the item should be placed. The callout should match the naming of the item’s file name exactly and should be highlighted to make it stand out. For example: 
 
-<Figure 2.3 here>
+<mark style="background-color: #FFFF00">**\<Figure 2.3 here\>**</mark>
 
 Note that our standard text designs place any figures, tables, and boxes at the top or bottom of a page, as near to the callout as possible, but not necessarily in the exact location indicated. 
 
